@@ -7,7 +7,7 @@ def start_keyboard():
         [InlineKeyboardButton("🛟 Support", url="https://t.me/plusotpsupport"),
          InlineKeyboardButton("📢 Updates", url="https://t.me/plusotpupdates")],
         [InlineKeyboardButton("💰 Refer & Earn", callback_data="refer_stats")],
-        [InlineKeyboardButton("Bot Activation's", url="https://t.me/plusotpsupport"),
+        [InlineKeyboardButton("Bot Activation's", url="https://t.me/Plusactivations"),
          InlineKeyboardButton("💳 Price List", url="https://t.me/plusotpupdates")],
         [InlineKeyboardButton("💵 Deposit", callback_data="custom_deposit")]
     ])
