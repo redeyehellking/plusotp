@@ -1,18 +1,13 @@
 START_TEXT = """**🌟 Welcome to Plus OTP Bot!** 
 
 🔐 **Secure OTP Purchasing Platform**
-💸 **Starting at $1 per number**
 ⚡ **Instant Delivery System**
 
 📌 **Key Features:**
 - `🛡️ 100% Verified Accounts`
 - `⏱️ Real-time OTP Forwarding`
-- `🔒 Secure Payment Gateway`
 - `📞 24/7 Support Team`
-- `📈 Transparent Pricing`
-- `🔥 Accounts stock updates`
-
-**Use buttons below to get started!**"""
+- `🔥 Accounts stock updates`"""
 
 START_IMG = "https://i.ibb.co/ns6DVW48/e126d3f6516f.jpg"
 DEPOSIT_TEXT = "**💳 Deposit Funds**\n\nSelect amount to add to your wallet:"
