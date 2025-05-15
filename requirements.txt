@@ -1,0 +1,8 @@
+python-dotenv==0.*
+motor
+psycopg2-binary==2.*
+pyromod==1.5
+TgCrypto==1.*
+kurigram
+qrcode==7.*
+Pillow==9.*
